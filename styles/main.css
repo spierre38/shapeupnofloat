@@ -23,7 +23,7 @@ body {
    
     width: 100%;
 
-  
+ 
     
 }
 
@@ -64,6 +64,7 @@ header img {
 #nav_menu {
     border-bottom: 3px solid steelblue;
     background-color: steelblue;
+    
    
 }
 #nav_menu ul {
